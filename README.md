@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own project<br>🌱 I’m currently learning WordPress<br>🤝 After WordPress I will learn react JS  <br>💬 Ask me about {html5 , css3 , js , bootstrap}<br>⚡ Fun fact : The term "debugging" originated from an actual moth found in a computer relay.
+🔭 I’m currently working on my own project<br>🌱 I’m currently learning Next js<br>🤝 After Next js I will learn three js  <br>💬 Ask me about {html5 , css3 , js , tailwind css , figma , ps , react js }<br>⚡ Fun fact : The term "debugging" originated from an actual moth found in a computer relay.
 
 
 ## 🌐 Socials:
