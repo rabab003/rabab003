@@ -29,13 +29,6 @@
 
 
 
-<br clear="both">
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rabab003/rabab003/output/snake.svg" 
-       alt="Snake eating my contributions" 
-       style="width: 100%; max-width: 800px;" />
-</div>
-
 
 
 
@@ -108,6 +101,13 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rabab003&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<br clear="both">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rabab003/rabab003/output/snake.svg" 
+       alt="Snake eating my contributions" 
+       style="width: 100%; max-width: 800px;" />
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
