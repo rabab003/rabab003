@@ -5,11 +5,14 @@
 
 
 🔭 I’m currently working on my own project<br>🌱 I’m currently learning Next js<br>🤝 After Next js I will learn three js  <br>💬 Ask me about {html5 , css3 , js , tailwind css , figma , ps , react js }<br>⚡️ Fun fact : The term "debugging" originated from an actual moth found in a computer relay.
-<div align="right">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" alt="Spotify recently played"  />
 </div>  
 
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 
@@ -96,5 +99,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rabab003&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
