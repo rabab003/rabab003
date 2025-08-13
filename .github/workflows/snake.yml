@@ -20,11 +20,16 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-            dist/snake-light.svg?palette=github-light
+          # Custom color parameters:
+          color_head: "58a6ff"  # Header color (matches your theme)
+          color_body: "58a6ff"  # Snake body color
+          color_bg: "0d1117"    # Background color
+          color_border: "0d1117" # Border color
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
+          target_border: false   # Matches your hide_border setting
           target_branch: output
           build_dir: dist
         env:
