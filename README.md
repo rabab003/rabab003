@@ -1,27 +1,6 @@
 
 <h1 align="center">Hey 👋What's Up?</h1>
 
-
-
-
-🔭 I’m currently working on my own project<br>🌱 I’m currently learning Next js<br>🤝 After Next js I will learn three js  <br>💬 Ask me about {html5 , css3 , js , tailwind css , figma , ps , react js }<br>⚡️ Fun fact : The term "debugging" originated from an actual moth found in a computer relay.
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" alt="Spotify recently played"  />
-</div>  
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <br clear="both" />
-  <img src="https://raw.githubusercontent.com/rabab003/rabab003/output/snake.svg" alt="Snake animation" />
-</div>
-
-
-
-
 ## 🌐 Socials:
 
 <div align="center">
@@ -39,6 +18,27 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
   </a>
 </div>
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" alt="Spotify recently played"  />
+</div>  
+
+
+🔭 I’m currently working on my own project<br>🌱 I’m currently learning Next js<br>🤝 After Next js I will learn three js  <br>💬 Ask me about {html5 , css3 , js , tailwind css , figma , ps , react js }<br>⚡️ Fun fact : The term "debugging" originated from an actual moth found in a computer relay.
+
+
+
+<br clear="both">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rabab003/rabab003/output/snake.svg" 
+       alt="Snake eating my contributions" 
+       style="width: 100%; max-width: 800px;" />
+</div>
+
+
+
+
 
 
 
