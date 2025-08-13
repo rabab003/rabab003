@@ -1,8 +1,8 @@
-name: Generate snake animation
+name: Generate Dark Blue Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
+    - cron: "0 */12 * * *"  # Updates every 12 hours
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -19,17 +19,16 @@ jobs:
           github_user_name: rabab003
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-          # Custom color parameters:
-          color_head: "58a6ff"  # Header color (matches your theme)
-          color_body: "58a6ff"  # Snake body color
-          color_bg: "0d1117"    # Background color
-          color_border: "0d1117" # Border color
+          # Custom Dark Blue Theme:
+          color_head: "1f6feb"    # GitHub dark blue
+          color_body: "58a6ff"    # Lighter blue
+          color_bg: "0d1117"      # GitHub dark background
+          color_border: "30363d"  # GitHub border color
+          color_contrib: "238636" # GitHub green for contributions
 
-      - name: Push to output branch
+      - name: Push to output
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_border: false   # Matches your hide_border setting
           target_branch: output
           build_dir: dist
         env:
