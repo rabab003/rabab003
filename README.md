@@ -14,6 +14,10 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
+<div align="center">
+  <br clear="both" />
+  <img src="https://raw.githubusercontent.com/rabab003/rabab003/output/snake.svg" alt="Snake animation" />
+</div>
 
 
 
@@ -90,12 +94,17 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rabab003&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rabab003&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabab003&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=ofwman)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabab003&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" width="70%" alt="streak stats" />
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rabab003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rabab003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rabab003&icon=0&color=0)](https://visitcount.itsvg.in)
